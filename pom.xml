@@ -16,5 +16,6 @@
         <module>bingomall-order</module>
         <module>bingomall-product</module>
         <module>bingomall-ware</module>
+        <module>renren-fast</module>
     </modules>
 </project>
